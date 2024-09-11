@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "thecsharpacademy-2-console-calculator", "thecsharpacademy-2-console-calculator.csproj", "{B231B557-5834-404F-A751-BEE7D969CBC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B231B557-5834-404F-A751-BEE7D969CBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B231B557-5834-404F-A751-BEE7D969CBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B231B557-5834-404F-A751-BEE7D969CBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B231B557-5834-404F-A751-BEE7D969CBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7379CDA7-1686-4E47-8EAA-E9BD7FF4F413}
+	EndGlobalSection
+EndGlobal
